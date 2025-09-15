@@ -1,3 +1,14 @@
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%E2%80%A2+Cybersecurity+%E2%80%A2+Systems+Programming;Passionate+about+Secure+Software+Development;Seeking+Opportunities+in+Security+Engineering)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
 ## Key Accomplishments & Projects
 
 <div align="center">
@@ -55,17 +66,6 @@
 
 </div>
 
-<br># Benjamin Black
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%E2%80%A2+Cybersecurity+%E2%80%A2+Systems+Programming;Passionate+about+Secure+Software+Development;Seeking+Opportunities+in+Security+Engineering)](https://git.io/typing-svg)
-
-</div>
-
-<br>
 
 ## Professional Summary
 
