@@ -3,7 +3,65 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%E2%80%A2+Cybersecurity+%E2%80%A2+Systems+Programming;Passionate+about+Secure+Software+Development;Seeking+Opportunities+in+Security+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%80%A2+Systems+Engineer+%E2%80%A2+Security+Researcher;Passionate+about+All+Forms+of+Technology+%26+Engineering;Building+Everything+from+Hardware+to+Web+Applications)](https://git.io/typing-svg)
+
+</div>
+
+
+## Key Accomplishments & Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### **Custom Linux Distribution**
+- **Built from scratch** using Linux From Scratch methodology
+- **Optimized boot process** reducing startup time by 40%
+- **Custom package manager** with dependency resolution
+- **Security hardening** with mandatory access controls
+
+**Skills:** System administration, package management, shell scripting, build systems
+
+</td>
+<td width="50%">
+
+### **IoT Security Platform**
+- **Embedded device** firmware with secure boot implementation
+- **Wireless communication** protocols (WiFi, Bluetooth, LoRa)
+- **Real-time monitoring** dashboard with React frontend
+- **Cloud integration** with AWS IoT Core and edge computing
+
+**Skills:** Embedded programming, hardware interfacing, full-stack development, cloud architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### **Network Infrastructure Tools**
+- **Software-defined networking** controller implementation
+- **Network automation** scripts for enterprise deployments  
+- **Performance monitoring** with custom metrics collection
+- **Load balancer** with failover and health checking
+
+**Skills:** Network programming, infrastructure automation, DevOps, system monitoring
+
+</td>
+<td width="50%">
+
+### **Machine Learning Security**
+- **AI/ML model** vulnerability assessment tools
+- **Computer vision** applications for threat detection
+- **Data pipeline** optimization for large-scale processing
+- **Distributed computing** with containerized microservices
+
+**Skills:** Machine learning, data engineering, containerization, distributed systems
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -66,31 +124,22 @@
 
 </div>
 
+<br>
 
 ## Professional Summary
 
 <img align="right" alt="Programming" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**Computer Science student** with proven experience in systems programming, Linux kernel development, and cybersecurity implementations
+**Technology enthusiast** with broad expertise spanning systems programming, web development, embedded systems, and machine learning
 
-**Hands-on expertise** building secure systems from the ground up, including custom Linux distributions and cryptographic libraries
+**Cross-disciplinary engineer** building everything from low-level operating systems to modern web applications and IoT solutions
 
-**Strong foundation** in low-level programming, operating system internals, and security architecture design
+**Full-stack mindset** combining hardware knowledge, systems programming, cloud architecture, and frontend development
 
-**Demonstrated ability** to complete complex technical projects independently while maintaining high code quality and documentation standards
+**Innovation-driven developer** passionate about exploring emerging technologies and solving complex engineering challenges across all domains
 
 <br clear="right"/>
 
-<div align="center">
-
-```yaml
-education: Computer Science (Focus: Cybersecurity)
-specializations: ["Systems Programming", "Security Engineering", "Cryptography"]
-career_interests: ["Security Research", "OS Development", "Enterprise Security"]
-seeking: "Internships • Full-time • Graduate Programs"
-```
-
-</div>
 
 <br>
 
@@ -122,8 +171,8 @@ seeking: "Internships • Full-time • Graduate Programs"
 </tr>
 </table>
 
-**Technologies:** C/C++, Rust, Assembly, Python, Linux Kernel APIs, POSIX, OpenSSL  
-**Skills Demonstrated:** Kernel development, memory management, cryptographic implementation, system call design, performance optimization, secure coding practices
+**Technologies:** C/C++, Python, React, Node.js, AWS IoT, Docker, embedded firmware  
+**Skills Demonstrated:** Operating system development, full-stack web development, IoT architecture, cloud integration
 
 </div>
 
@@ -139,32 +188,42 @@ seeking: "Internships • Full-time • Graduate Programs"
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Systems & Tools**
+**Web & Frontend**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Databases & ML**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Security & Networking**
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4757?style=for-the-badge&logo=security&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-5f27cd?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network%20Security-00d2d3?style=for-the-badge&logo=security&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 </div>
 
 <br>
 
-## Academic & Research Interests
+## Technology Domains & Interests
 
 <div align="center">
 
@@ -172,21 +231,21 @@ seeking: "Internships • Full-time • Graduate Programs"
 <tr>
 <td align="center" width="33%">
 <br><br>
-<strong>Cryptographic Systems</strong>
+<strong>Systems Engineering</strong>
 <br><br>
-<sub>Researching post-quantum cryptography and secure key management for future-proof security systems</sub>
+<sub>Operating systems, kernel development, embedded systems, and hardware-software integration</sub>
 </td>
 <td align="center" width="33%">
 <br><br>
-<strong>Systems Security</strong>
+<strong>Full-Stack Development</strong>
 <br><br>
-<sub>Studying operating system vulnerabilities, secure boot processes, and hardware-software security interfaces</sub>
+<sub>Modern web applications, cloud architecture, API design, and scalable distributed systems</sub>
 </td>
 <td align="center" width="33%">
 <br><br>
-<strong>Threat Analysis</strong>
+<strong>Emerging Technologies</strong>
 <br><br>
-<sub>Analyzing attack vectors, developing threat models, and designing defensive security architectures</sub>
+<sub>Machine learning, IoT platforms, blockchain applications, and next-generation computing paradigms</sub>
 </td>
 </tr>
 </table>
@@ -214,11 +273,11 @@ seeking: "Internships • Full-time • Graduate Programs"
 
 <div align="center">
 
-**Seeking opportunities in:**
-- **Security Engineering Internships** - Hands-on experience with enterprise security systems
-- **Graduate Programs** - Advanced study in cybersecurity and systems engineering  
-- **Research Positions** - Contributing to academic or industry security research
-- **Full-time Roles** - Junior security engineer or systems programmer positions
+**Open to opportunities in:**
+- **Software Engineering** - Full-stack development and scalable system architecture
+- **Systems Development** - Low-level programming, embedded systems, and infrastructure
+- **DevOps Engineering** - Cloud platforms, automation, and deployment pipelines  
+- **Product Engineering** - Building innovative solutions across multiple technology domains
 
 </div>
 
@@ -234,7 +293,7 @@ seeking: "Internships • Full-time • Graduate Programs"
 
 <br><br>
 
-**"Dedicated to advancing cybersecurity through rigorous research and practical application"**
+**"Passionate about pushing the boundaries of technology across all engineering domains"**
 
 <br>
 
