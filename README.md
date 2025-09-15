@@ -55,7 +55,9 @@
 
 </div>
 
-<br><div align="center">
+<br># Benjamin Black
+
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50)
 
