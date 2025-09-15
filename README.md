@@ -110,17 +110,7 @@
 </td>
 <td width="50%">
 
-### **Academic Achievements**
-- **Dean's List** recognition for academic excellence
-- **Research presentation** on post-quantum cryptography
-- **Open source contributions** to security-focused projects
-- **Technical documentation** for complex system architectures
 
-**Skills:** Research methodology, technical writing, presentation skills, collaborative development
-
-</td>
-</tr>
-</table>
 
 </div>
 
