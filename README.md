@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50)
@@ -61,29 +60,7 @@
 
 </td>
 </tr>
-</table>
-
-</div>
-
-<br>
-
-## Key Accomplishments & Projects
-
-<div align="center">
-
-<table>
 <tr>
-<td width="50%">
-
-### **Custom Linux Distribution**
-- **Built from scratch** using Linux From Scratch methodology
-- **Optimized boot process** reducing startup time by 40%
-- **Custom package manager** with dependency resolution
-- **Security hardening** with mandatory access controls
-
-**Skills:** System administration, package management, shell scripting, build systems
-
-</td>
 <td width="50%">
 
 ### **Cryptographic Library Implementation**
@@ -95,8 +72,6 @@
 **Skills:** Applied cryptography, secure coding, performance optimization, vulnerability analysis
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### **Network Security Tools**
@@ -108,9 +83,8 @@
 **Skills:** Network programming, socket programming, protocol analysis, security assessment
 
 </td>
-<td width="50%">
-
-
+</tr>
+</table>
 
 </div>
 
@@ -129,7 +103,6 @@
 **Innovation-driven developer** passionate about exploring emerging technologies and solving complex engineering challenges across all domains
 
 <br clear="right"/>
-
 
 <br>
 
@@ -249,7 +222,6 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenjaminBlack3303&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBlack3303&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff"/>
 
 <br><br>
 
@@ -294,3 +266,4 @@
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+
