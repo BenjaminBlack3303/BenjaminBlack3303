@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Benjamin%20Black&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Bug%20Exterminator%20%7C%20Threat%20Whisperer&descAlignY=60&descAlign=50)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%80%A2+Systems+Engineer+%E2%80%A2+Security+Researcher;Passionate+about+All+Forms+of+Technology+%26+Engineering;Building+Everything+from+Hardware+to+Web+Applications)](https://git.io/typing-svg)
 
